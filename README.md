@@ -22,7 +22,7 @@ Roles
 >
 > Seed Creator
 >
-> > everybody can be Creator and contribute to SeedBank
+> > everybody can be Genetyc Seed Creator and contribute to SeedBank
 
 
 ========
@@ -36,4 +36,20 @@ What does the app
 
 > OPEN SOURCE
   
+========
+
+Workflow Developpement Process
+
+> Organisation : Banker
+> > Name, Type, Localisation
+
+> Users : receiver, donor, creator
+> > Receiver
+> > > Receives Seeds
+> > > Manage Seeds
+> > Donor
+> > > Gives Seeds
+> > Creator
+> > > Add a new genetic seed/breed
+
   
