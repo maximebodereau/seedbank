@@ -41,15 +41,22 @@ What does the app
 Workflow Developpement Process
 
 > Organisation : Banker
+>
 > > Name, Type, Localisation
 
 Users : receiver, donor, creator
 > Receiver
+>
 > > Receives Seeds
+>
 > > Manage Seeds
+>
 > Donor
+>
 > > Gives Seeds
+>
 > Creator
+>
 > > Add a new genetic seed/breed
 
   
