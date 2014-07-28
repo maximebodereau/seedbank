@@ -3,27 +3,7 @@ SeedBank
 
 WebApp Open Source to Stock, Manage, Categorize, Share &amp; Help other banks
 
-
-========
-
-Roles
-
-> Seed Banker
->
-> > manage, organize seeds
->
-> Seed Receiver
->
-> >receive seeds, have to give a small part of recolt
->
-> Seed Donor
->
-> > gives seeds to the bank
->
-> Seed Creator
->
-> > everybody can be Genetyc Seed Creator and contribute to SeedBank
-
+Le sujet c’est de faire une webapp sur une gestion de banque de graines ( organisations appelé SeedBank avec comme infos le nom de la banque, son lieu, les stocks de graines ou de plantes, le nombre d'abonnés ). 
 
 ========
 
@@ -40,23 +20,26 @@ What does the app
 
 Workflow Developpement Process
 
-> Organisation : Banker
+> Organisation : SeedBank
 >
-> > Name, Type, Localisation
+> > Name, Type, Localisation, Seeds Number
 
-Users : receiver, donor, creator
-> Receiver
->
-> > Receives Seeds
->
-> > Manage Seeds
->
-> Donor
->
-> > Gives Seeds
->
-> Creator
->
-> > Add a new genetic seed/breed
+Users naming Seeder : 
+
+> 3 types : SeedBanker, SeedNetician, ou SeedDonor
+
+SeedBanker : Administrator of a SeedBank, SeedCards administrator 
+Dans ces banques il y a le banquier ( appelé SeedBanker, il administre la SeedBank, il ajoute ou supprime les stocks de graines( SeedCard ), modère les abonnés etc... ). 
+
+
+Seeder : Every Users, can be SeedBanker, SeedNetician, or SeedDonor
+Les Seeders sont les utilisateurs communs. Et ils peuvent devenir SeedBanker, SeedNetician, ou SeedDonor
+
+SeedNetician create real world Seeds, hybrid or plants. Create a SeedCards page. Can be SeedDonor.
+Le SeedNetician créer des vraies graines ou des hybride. il créer une page de SeedCards ( avec ses espèces, ses graines, le nombre ) etc..
+	Il peut devenir SeedDonor.
+
+SeedDonor gives seeds to Seedees and/or SeedBanks. Receive Seeds to.
+Le SeedDonor donne des graines a des seeders ou des SeedBank ou en reçoit. 
 
   
